@@ -26,15 +26,15 @@ function App() {
 
     <div class="flex-container">
       <div className="column1">
-        <h1>Economists & Strategists</h1>
+        <h1>Macro Executive Search</h1>
           <div class="WhoisArbBox">
 
           <h5>Executive Search since 2011 </h5>
           <b>Specialised in Macro </b>
           <p>
-          From inception we started as a firm recruiting Economists and Strategists and have grown that to include Quants, Sales, Trading and Portfolio Managers.</p> 
+          From inception we focused on recruiting Economists and Strategists and have grown that to include Quants, Sales, Trading and Portfolio Managers.</p> 
           <p>
-          We have recruited into half of the worlds top 10 hedge funds and top 10 asset managers.
+          We have recruited into half of the worlds top 10 hedge funds & asset managers and new launches.
           </p>
           <p> Retained & Contingent Search on a case by case basis</p>
 
