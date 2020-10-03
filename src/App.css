@@ -21,8 +21,6 @@
   
 }
 
-
-
 .container{
 }
 
@@ -36,67 +34,91 @@
 }
 
 .flex-container > div {
-  background-color: #f1f1f1;
+  background-color: #6699CC;
   margin: 5px;
   padding: 5px;
   font-size: 14px;
-  color: #17265d;
- 
+  color: black;
+  
   
 }
 
 .column1{
   width:320px;
   border-radius: 15px;
-  background-color: #fafafa;
+  color: #17265d;
+  padding: 7px;
   }
 
   .WhoisArbBox{
     
-    margin-top: 4px;
-    box-shadow: inset 0px 0px 0px 3px #17265d;
+    margin: 10px;
+    -webkit-box-shadow: 0 0 6px 4px #17265d;
+    -moz-box-shadow: 0 0 6px 4px #17265d;
+         box-shadow: 0 0 6px 4px #17265d;
     box-sizing: border-box; 
-    height: 220px;
+    height: 230px;
     border-radius: 15px;
-    background-color: #d3d3d3;
+    background-color: white;
+    padding: 7px;
+    color: #17265d;
+
+
     }
 
   .ChrisBox{
   
-  margin-top: 4px;
-  box-shadow: inset 0px 0px 0px 3px #00004c;
+    margin: 10px;margin-top: 18px;
+    -webkit-box-shadow: 0 0 6px 4px #17265d;
+    -moz-box-shadow: 0 0 6px 4px #17265d;
+         box-shadow: 0 0 6px 4px #17265d;
   box-sizing: border-box; 
-  height: 120px;
+  height: 365px;
   border-radius: 15px;
-  background-color: #d3d3d3;
+  background-color: white;
+  padding: 7px;
+  color: #17265d; 
   }
 
   .RickBox{
   
-  margin-top: 4px;
-  box-shadow: inset 0px 0px 0px 3px #17265d;
+    margin: 10px;margin-top: 18px;
+    -webkit-box-shadow: 0 0 6px 4px #17265d;
+    -moz-box-shadow: 0 0 6px 4px #17265d;
+         box-shadow: 0 0 6px 4px #17265d;
   box-sizing: border-box; 
-  height: 120px;
+  height: 340px;
   border-radius: 15px;
-  background-color: #d3d3d3;
+  background-color: white;
+  padding: 7px;
+  color: #17265d; 
   }
   
   .RecruitWithUsBox{
-  margin-top: 4px;
-  box-shadow: inset 0px 0px 0px 3px #00004c;
+    margin: 10px;margin-top: 18px;
+    -webkit-box-shadow: 0 0 6px 4px #17265d;
+    -moz-box-shadow: 0 0 6px 4px #17265d;
+         box-shadow: 0 0 6px 4px #17265d;
   box-sizing: border-box; 
   height: 120px;
   border-radius: 15px;
-  background-color: #d3d3d3;
+  background-color: white;
+  padding: 7px;
+  color: #17265d;
+  
   }
 
   .PastPlacementsBox{
-  margin-top: 4px;
-  box-shadow: inset 0px 0px 0px 3px #17265d;
+    margin: 10px;margin-top: 18px;
+    -webkit-box-shadow: 0 0 6px 4px #17265d;
+    -moz-box-shadow: 0 0 6px 4px #17265d;
+         box-shadow: 0 0 6px 4px #17265d;
   box-sizing: border-box; 
   height: 120px;
   border-radius: 15px;
-  background-color: #d3d3d3;
+  background-color: white;
+  padding: 7px;
+  color: #17265d; 
   }
 
 .column2{
@@ -104,45 +126,116 @@
   border-radius: 15px;
 }
 .Job1Box{
-  margin-top: 4px;
-  box-shadow: inset 0px 0px 0px 3px #005900;
+ margin: 10px;margin-top: 18px;
+  -webkit-box-shadow: 0 0 6px 4px #005900;
+  -moz-box-shadow: 0 0 6px 4px #005900;
+       box-shadow: 0 0 6px 4px #005900;
   box-sizing: border-box; 
   height: 120px;
   border-radius: 15px;
-  background-color: #d3d3d3;
+  background-color: #fffee0;
+  padding: 7px;
+  color: #009999;
   }
   .Job2Box{
-    margin-top: 4px;
-    box-shadow: inset 0px 0px 0px 3px #005900;
+    margin: 10px;margin-top: 18px;
+    -webkit-box-shadow: 0 0 6px 4px #005900;
+    -moz-box-shadow: 0 0 6px 4px #005900;
+         box-shadow: 0 0 6px 4px #005900;
     box-sizing: border-box; 
     height: 120px;
     border-radius: 15px;
-    background-color: #d3d3d3;
+    background-color: #fffec8;
+    padding: 7px;
+    color: #009999;
     }
     .Job3Box{
-      margin-top: 4px;
-      box-shadow: inset 0px 0px 0px 3px #005900;
+      margin: 10px;margin-top: 18px;
+      -webkit-box-shadow: 0 0 6px 4px #005900;
+      -moz-box-shadow: 0 0 6px 4px #005900;
+           box-shadow: 0 0 6px 4px #005900;
       box-sizing: border-box; 
       height: 120px;
       border-radius: 15px;
-      background-color: #d3d3d3;
+      background-color: #fffee0;
+      padding: 7px;
+      color: #009999;
       }
       .Job4Box{
-        margin-top: 4px;
-        box-shadow: inset 0px 0px 0px 3px #005900;
+        margin: 10px;margin-top: 18px;
+        -webkit-box-shadow: 0 0 6px 4px #005900;
+        -moz-box-shadow: 0 0 6px 4px #005900;
+             box-shadow: 0 0 6px 4px #005900;
         box-sizing: border-box; 
         height: 120px;
         border-radius: 15px;
-        background-color: #d3d3d3;
+        background-color: #fffec8;
+        padding: 7px;
+        color: #009999;
         }
         .Job5Box{
-          margin-top: 4px;
-          box-shadow: inset 0px 0px 0px 3px #005900;
+          margin: 10px;
+          margin-top: 18px;
+          -webkit-box-shadow: 0 0 6px 4px #005900;
+          -moz-box-shadow: 0 0 6px 4px #005900;
+               box-shadow: 0 0 6px 4px #005900;
           box-sizing: border-box; 
           height: 120px;
           border-radius: 15px;
-          background-color: #d3d3d3;
+          background-color: #fffee0;
+          padding: 7px;
+          color: #009999;
           }
+          .Job6Box{
+            margin: 10px;margin-top: 18px;
+            -webkit-box-shadow: 0 0 6px 4px #005900;
+            -moz-box-shadow: 0 0 6px 4px #005900;
+                 box-shadow: 0 0 6px 4px #005900;
+            box-sizing: border-box; 
+            height: 120px;
+            border-radius: 15px;
+            background-color: #fffec8;
+            padding: 7px;
+            color: #009999;
+            }
+            .Job7Box{
+              margin: 10px;
+              margin-top: 18px;
+              -webkit-box-shadow: 0 0 6px 4px #005900;
+              -moz-box-shadow: 0 0 6px 4px #005900;
+                   box-shadow: 0 0 6px 4px #005900;
+              box-sizing: border-box; 
+              height: 120px;
+              border-radius: 15px;
+              background-color: #fffee0;
+              padding: 7px;
+              color: #009999;
+              }
+              .Job8Box{
+                margin: 10px;margin-top: 18px;
+                -webkit-box-shadow: 0 0 6px 4px #005900;
+                -moz-box-shadow: 0 0 6px 4px #005900;
+                     box-shadow: 0 0 6px 4px #005900;
+                box-sizing: border-box; 
+                height: 120px;
+                border-radius: 15px;
+                background-color: #fffec8;
+                padding: 7px;
+                color: #009999;
+                }
+                .Job9Box{
+                  margin: 10px;
+                  margin-top: 18px;
+                  -webkit-box-shadow: 0 0 6px 4px #005900;
+                  -moz-box-shadow: 0 0 6px 4px #005900;
+                       box-shadow: 0 0 6px 4px #005900;
+                  box-sizing: border-box; 
+                  height: 120px;
+                  border-radius: 15px;
+                  background-color: #fffee0;
+                  padding: 7px;
+                  color: #009999;
+                  }
 
 .column3{
   width:320px;
