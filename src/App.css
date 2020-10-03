@@ -108,19 +108,44 @@
   
   }
 
-  .PastPlacementsBox{
+  .pleaseconnect{
     margin: 10px;margin-top: 18px;
     -webkit-box-shadow: 0 0 6px 4px #17265d;
     -moz-box-shadow: 0 0 6px 4px #17265d;
          box-shadow: 0 0 6px 4px #17265d;
   box-sizing: border-box; 
-  height: 120px;
+  height: 60px;
   border-radius: 15px;
   background-color: white;
   padding: 7px;
   color: #17265d; 
   }
 
+  .WeHave{
+    margin: 10px;margin-top: 18px;
+    -webkit-box-shadow: 0 0 6px 4px #17265d;
+    -moz-box-shadow: 0 0 6px 4px #17265d;
+         box-shadow: 0 0 6px 4px #17265d;
+  box-sizing: border-box; 
+  height: 67px;
+  border-radius: 15px;
+  background-color: lightsteelblue;
+  padding: 7px;
+  color: #17265d; 
+  }
+
+  .WeHave2{
+    margin: 5px;margin-top: 5px;
+    -webkit-box-shadow: 0 0 6px 4px #17265d;
+    -moz-box-shadow: 0 0 6px 4px #17265d;
+         box-shadow: 0 0 6px 4px #17265d;
+  box-sizing: border-box; 
+  height: 67px;
+  border-radius: 15px;
+  background-color: lightsteelblue;
+  padding: 7px;
+  color: #17265d; 
+  }
 .column2{
   width:320px;
   border-radius: 15px;
