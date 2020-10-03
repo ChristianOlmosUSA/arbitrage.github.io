@@ -121,7 +121,7 @@ function App() {
           
         />
 
-<div class="WeHave2"><p> Recruiting Economists, FX Strategist, Equity Strategist, Macro Portfolio Manager, Multi-Asset PM, EM Debt Analysts</p></div>
+<div class="WeHave2"><p> Recruiting Economists, FX Strategists, Equity Strategists, Fixed Income Strategists, Macro Portfolio Managers, Multi-Asset PMs, EM Debt Analysts</p></div>
        
 
 
