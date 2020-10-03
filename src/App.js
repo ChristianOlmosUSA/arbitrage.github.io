@@ -56,7 +56,7 @@ function App() {
           <h5>Rick Robinson</h5>
           <b>Partner</b><p></p>
           <img className="logo" src={rick} />
-          <img></img>
+          
           <p> As a journalist Rick built many of the same skills in seeking out information that he has used in his 12 year year career as a headhunter. He has been with Arbitrage since 2014</p>
           <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/robinsonrick/">Connect to Rick on Linkedin</a>
           </div>
