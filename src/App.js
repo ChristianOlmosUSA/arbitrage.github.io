@@ -1,4 +1,5 @@
 import React from 'react';
+import { TwitterTimelineEmbed, TwitterShareButton, TwitterFollowButton } from 'react-twitter-embed';
 import logo from '../src/img/Arb_logo.png';
 import chris from '../src/img/Chris_circle.png';
 import rick from '../src/img/Rick_circle.png';
@@ -60,8 +61,8 @@ function App() {
 
 
           </div>
-          <div class="RecruitWithUsBox"></div>
-          <div class="PastPlacementsBox"></div>
+          
+          
       </div>
      
 
@@ -92,12 +93,19 @@ function App() {
           </div>
           <div class="Job6Box">
           <h5> Quant Analyst</h5>
-              <p> Building High Frequency trading FX models, using python, MatLab and with awareness of FIX protocol and similar</p>
+              <p> Building High Frequency trading FX models, using python, MatLab and with awareness of FIX protocol and low latency technologies</p>
           </div>
+          <div class="RecruitWithUsBox"></div>
+          <div class="PastPlacementsBox"></div>
       
       </div>
 
       <div className="column3"><h2>Twitter</h2>
+      <TwitterTimelineEmbed
+          sourceType="profile"
+          screenName="arbitragesearch"
+          options={{height: 800}}
+        />
       </div>
 
     </div>
