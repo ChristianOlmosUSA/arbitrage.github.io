@@ -23,22 +23,21 @@ function App() {
     <div class="flex-container">
       <div className="column1">
         <h2>About Us</h2>
-    <div class="WhoisArbBox"></div>
-    <div class="ChrisBox"></div>
-    <div class="RickBox"></div>
-    <div class="RecruitWithUsBox"></div>
-    <div class="PastPlacementsBox"></div>
+          <div class="WhoisArbBox"></div>
+          <div class="ChrisBox"></div>
+          <div class="RickBox"></div>
+          <div class="RecruitWithUsBox"></div>
+          <div class="PastPlacementsBox"></div>
       </div>
-
-      
+     
 
       <div className="column2"><h2>Vacancies</h2>
       
-      <div class="Job1Box"></div>
-      <div class="Job2Box"></div>
-      <div class="Job3Box"></div>
-      <div class="Job4Box"></div>
-      <div class="Job5Box"></div>
+          <div class="Job1Box"></div>
+          <div class="Job2Box"></div>
+          <div class="Job3Box"></div>
+          <div class="Job4Box"></div>
+          <div class="Job5Box"></div>
       
       </div>
 

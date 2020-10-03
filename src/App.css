@@ -54,17 +54,17 @@
   .WhoisArbBox{
     
     margin-top: 4px;
-    box-shadow: inset 0px 0px 0px 2px #17265d;
+    box-shadow: inset 0px 0px 0px 3px #17265d;
     box-sizing: border-box; 
     height: 220px;
     border-radius: 15px;
-    background-color: #bdbdbd;
+    background-color: #d3d3d3;
     }
 
   .ChrisBox{
   
   margin-top: 4px;
-  box-shadow: inset 0px 0px 0px 2px #3556d1;
+  box-shadow: inset 0px 0px 0px 3px #00004c;
   box-sizing: border-box; 
   height: 120px;
   border-radius: 15px;
@@ -74,17 +74,16 @@
   .RickBox{
   
   margin-top: 4px;
-  box-shadow: inset 0px 0px 0px 2px #17265d;
+  box-shadow: inset 0px 0px 0px 3px #17265d;
   box-sizing: border-box; 
   height: 120px;
   border-radius: 15px;
-  background-color: #bdbdbd;
+  background-color: #d3d3d3;
   }
   
   .RecruitWithUsBox{
-  
   margin-top: 4px;
-  box-shadow: inset 0px 0px 0px 2px #3556d1;
+  box-shadow: inset 0px 0px 0px 3px #00004c;
   box-sizing: border-box; 
   height: 120px;
   border-radius: 15px;
@@ -93,17 +92,57 @@
 
   .PastPlacementsBox{
   margin-top: 4px;
-  box-shadow: inset 0px 0px 0px 2px #17265d;
+  box-shadow: inset 0px 0px 0px 3px #17265d;
   box-sizing: border-box; 
   height: 120px;
   border-radius: 15px;
-  background-color: #bdbdbd;
+  background-color: #d3d3d3;
   }
 
 .column2{
   width:320px;
   border-radius: 15px;
 }
+.Job1Box{
+  margin-top: 4px;
+  box-shadow: inset 0px 0px 0px 3px #005900;
+  box-sizing: border-box; 
+  height: 120px;
+  border-radius: 15px;
+  background-color: #d3d3d3;
+  }
+  .Job2Box{
+    margin-top: 4px;
+    box-shadow: inset 0px 0px 0px 3px #005900;
+    box-sizing: border-box; 
+    height: 120px;
+    border-radius: 15px;
+    background-color: #d3d3d3;
+    }
+    .Job3Box{
+      margin-top: 4px;
+      box-shadow: inset 0px 0px 0px 3px #005900;
+      box-sizing: border-box; 
+      height: 120px;
+      border-radius: 15px;
+      background-color: #d3d3d3;
+      }
+      .Job4Box{
+        margin-top: 4px;
+        box-shadow: inset 0px 0px 0px 3px #005900;
+        box-sizing: border-box; 
+        height: 120px;
+        border-radius: 15px;
+        background-color: #d3d3d3;
+        }
+        .Job5Box{
+          margin-top: 4px;
+          box-shadow: inset 0px 0px 0px 3px #005900;
+          box-sizing: border-box; 
+          height: 120px;
+          border-radius: 15px;
+          background-color: #d3d3d3;
+          }
 
 .column3{
   width:320px;
