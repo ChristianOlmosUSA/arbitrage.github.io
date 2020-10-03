@@ -43,7 +43,7 @@ function App() {
           <h5>Chris Apostolou</h5>
           <b>Partner</b><p></p>
           <img className="logo" src={chris} />
-          <p> After 10 years working as an Economist and Credit Analyst at JPMorgan, Mizuho Bank, New Bond Street Asset Management, Chris started Arbitrage Search placing Economists in 2011.</p>
+          <p> After 10 years working as an Economist, Bond & Credit Analyst at JPMorgan, Mizuho Bank, New Bond Street Asset Management, Chris started Arbitrage Search placing Economists in 2011.</p>
           <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/apostolouc/">Connect to Chris on Linkedin</a>
 
 
@@ -74,7 +74,7 @@ function App() {
 
           </div>
           <div class="Job2Box">
-          <h5> Asia Economist ex China</h5>
+          <h5> Asia Economist ex-China</h5>
               <p>Top Tier Global Macro Hedge Fund seeks an analyst with 5-10 years of experience covering countries such as Indonesia and Philippines, forecasting GDP, Inflation and high frequency indicators</p>
           </div>
           
@@ -84,16 +84,21 @@ function App() {
           </div>
           <div class="Job4Box">
           <h5> Portfolio Manager / Proprietary Trader, London or NY</h5>
-              <p>Global Fund with Capital to deploy seeks only the best performing traders with strong track records</p>
+              <p>Global Fund with Capital to deploy seeks only the best performing traders with strong track records. Min $100m+ book</p>
           </div>
           <div class="Job5Box">
           <h5> Macro Research Sales</h5>
               <p>Independent Research firm with quality research output seeks to expand its sales presence, CSA / Subscription sales experience sought</p>
           </div>
+          <div class="Job6Box">
+          <h5> Quant Analyst</h5>
+              <p> Building High Frequency trading FX models, using python, MatLab and with awareness of FIX protocol and similar</p>
+          </div>
       
       </div>
 
-      <div className="column3"><h2>Twitter</h2></div>
+      <div className="column3"><h2>Twitter</h2>
+      </div>
 
     </div>
 
