@@ -16,13 +16,16 @@ function App() {
     <div className="Header">
       
       <img className="logo" src={logo} />
+      
     </div>
 
-    <div className="PostHeader">         
+    <div className="PreHeader">   
+    <img className="logo" src={ContactsFooter} />      
     </div>
 
     <div class="container">
-
+    
+    
 
     <div class="flex-container">
       <div className="column1">
@@ -37,6 +40,8 @@ function App() {
           We have recruited into half of the worlds top 10 hedge funds & asset managers and new launches.
           </p>
           <p> Retained & Contingent Search on a case by case basis</p>
+          
+          
 
 
 
@@ -61,7 +66,7 @@ function App() {
           <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/robinsonrick/">Connect to Rick on Linkedin</a>
           </div>
 
-          <div class="WeHave"><p> We have recruited in London, New York, Hong Kong, Singapore, Germany, France, Cyprus, Palm Beach, Miami etc</p></div>
+          <div class="WeHave"><p> We have recruited in London, New York, Hong Kong, Singapore, Germany, France, Cyprus, Palm Beach, Miami and others</p></div>
           
           
       </div>
@@ -70,33 +75,33 @@ function App() {
       <div className="column2"><h2>Vacancies</h2>
       
           <div class="Job1Box">
-              <h5> Credit Analyst, Sovereigns & Financials</h5>
+              <h5> Credit Analyst, Sovereigns & Financials, London</h5>
               <p>Niche bank with global presence seeks an experienced analyst to lead all coverage of credit</p>
 
 
           </div>
           <div class="Job2Box">
-          <h5> Asia Economist ex-China</h5>
+          <h5> Asia Economist ex-China, HK</h5>
               <p>Top Tier Global Macro Hedge Fund seeks an analyst with 5-10 years of experience covering countries such as Indonesia and Philippines, forecasting GDP, Inflation and high frequency indicators</p>
           </div>
           
           
           <div class="Job3Box">
-          <h5> Asset Raiser, FX & Credit Hedge Fund</h5>
+          <h5> Asset Raiser, FX Hedge Fund, London</h5>
               <p>Sales analyst with 1-3 years to support a new head of team. Client with highly regarded reputation among hedge fund community</p>
           </div>
           <div class="pleaseconnect"><p> for all vacancies please connect to us on linkedin or send an email/call in</p></div>
           <div class="Job4Box" onClick="">
-          <h5> Portfolio Manager / Proprietary Trader, London or NY</h5>
+          <h5> Portfolio Manager/Trader, London/NY</h5>
               <p>Global Fund with Capital to deploy seeks only the best performing traders with strong track records. Min $100m+ book</p>
           </div>
           
           <div class="Job5Box">
-          <h5> Macro Research Sales</h5>
+          <h5> Macro Research Sales, London/NY</h5>
               <p>Independent Research firm with quality research output seeks to expand its sales presence, CSA / Subscription sales experience sought</p>
           </div>
           <div class="Job6Box">
-          <h5> Quantitative Analyst</h5>
+          <h5> Quantitative Analyst(s), London/NY</h5>
               <p> Building High Frequency trading FX models, using python, MatLab and with awareness of FIX protocol and low latency technologies</p>
           </div>
           <div class="pleaseconnect"><p> for all vacancies please connect to us on linkedin or send an email/call in</p></div>
