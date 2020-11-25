@@ -81,8 +81,8 @@ function App() {
 
           </div>
           <div class="Job2Box">
-          <h5> Asia Economist ex-China, HK</h5>
-              <p>Top Tier Global Macro Hedge Fund seeks an analyst with 5-10 years of experience covering countries such as Indonesia and Philippines, forecasting GDP, Inflation and high frequency indicators</p>
+          <h5> Eurozone Economists(S)</h5>
+              <p>Multiple clients seek economists, ideally with european languages, to cover the eurozone from 2 - 10 years of experience</p>
           </div>
           
           
@@ -97,12 +97,12 @@ function App() {
           </div>
           
           <div class="Job5Box">
-          <h5> Macro Research Sales, London/NY</h5>
-              <p>Independent Research firm with quality research output seeks to expand its sales presence, CSA / Subscription sales experience sought</p>
+          <h5> Quant Macro</h5>
+              <p>Two hedge fund clients seek quants to model credit and macro, python/matlab skills & Economist experience sought</p>
           </div>
           <div class="Job6Box">
-          <h5> Quantitative Analyst(s), London/NY</h5>
-              <p> Building High Frequency trading FX models, using python, MatLab and with awareness of FIX protocol and low latency technologies</p>
+          <h5> Credit Analyst, London</h5>
+              <p> Small team managing $500m in a global hedge fund, cover all sectors, IG & HY in Europe</p>
           </div>
           <div class="pleaseconnect"><p> for all vacancies please connect to us on linkedin or send an email/call in</p></div>
           <div class="RecruitWithUsBox">
